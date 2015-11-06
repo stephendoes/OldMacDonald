@@ -14,6 +14,5 @@ public NamedCow()     {
          myName = "Elsie";  
      }      
      public String getSound(){return mySound;}     
-     public String getType(){return myType;} 
-     public String getName(){return myName;}
+     
 }
